@@ -156,7 +156,7 @@ int main(){
 
 	updateRangeLazy(tree,1,0,n-1,0,4,5);
 	updateRangeLazy(tree,1,0,n-1,0,2,10);
-	cout<<queryLazy(tree,1,0,n-1,qs,qe);
+	cout<<queryLazy(tree,1,0,n-1,qs,qe);ṭ		
 	return 0;
 
 }
